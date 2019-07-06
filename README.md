@@ -1,5 +1,5 @@
 # RoiPooling
-RoiPooling layer of rcnn family. working on both smaller and larger pool sized than the region
+RoiPooling layer of rcnn family. working on both smaller and larger pool size than the region
 
 There are four different conditions that could happend during roi pooling that the code takes care of:
 1) if the height and width of the pool is smaller than the height and width of the region
